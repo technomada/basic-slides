@@ -1,4 +1,4 @@
-# basic-slides
+# Basic Slides
 A simple way to share a static image slide presentation.
 
 How to use:
