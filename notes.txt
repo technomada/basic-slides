@@ -1,0 +1,19 @@
+DO CORE FEATURE WELL ... and only that feature. (filter adding features based on knowing they're core)... apps have up to three core features. 
+
+core-series...
+
+
+manual to start...
+
+[slides]
+0000.png ... alpha order
+
+
+/#fj3fj  ... if code then run...
+
+else
+
+	.. show.
+
+
+runner 
