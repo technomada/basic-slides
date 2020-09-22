@@ -1,5 +1,5 @@
 # Basic Slides
-A simple way to share a static image slide presentation.
+Create and share a simple static image slide presentation.
 
 How to use:
 ```
@@ -17,6 +17,11 @@ RightArrow = forward
 ```
 
 ### Explainer
-Provide a list of image files in a folder mappd to /usr/src/app/slides
+Share the link to viewers.  Slide changes remain in sync between all viewers.
+
+
+### Notes
+
+Provide a list of image files in a folder mapped to /usr/src/app/slides
 
 Slides are shown according to the file name alpha sort.
