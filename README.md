@@ -1,4 +1,4 @@
-# Basic Slides
+# Core Slides
 Create and share a simple static image slide presentation.
 
 How to use:
