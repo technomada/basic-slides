@@ -1,6 +1,8 @@
 # Core Slides
 Create and share a simple static image slide presentation.
 
+A [core series](https://github.com/technomada/core) application.
+
 How to use:
 ```
 $ sudo docker run -d --restart=always --name=slides --env MASTER_KEY="mk.21iqp" -p 3000:3000 -v /path/to/slides:/usr/src/app/slides technomada/basic-slides 
